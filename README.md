@@ -1,8 +1,11 @@
-# 🚀 Plataforma SaaS de Gestão de Excursões e Financeiro
+# 🚀 Plataforma SaaS de Gestão de Excursões e Financeiro (EM CONSTRUÇÃO)
 
 Sistema SaaS completo para gestão de **excursões, clientes, financeiro e operações**, desenvolvido com foco em **escalabilidade, automação e controle de negócios**.
 
 A plataforma oferece uma visão centralizada das operações, permitindo o gerenciamento eficiente de viagens, clientes, receitas, despesas e tarefas, além de fornecer **dashboards interativos em tempo real** para tomada de decisão.
+
+<img width="1897" height="865" alt="image" src="https://github.com/user-attachments/assets/3b8788d0-962d-4adb-a694-95169d2ac887" />
+
 
 ---
 
